@@ -25,7 +25,7 @@ function Faqs() {
         </AccordionItem>
         <AccordionItem value="item-2">
           <AccordionTrigger className="text-[25px]">
-            How does the school support students’ spiritual development?
+            How does the school support students&apos; spiritual development?
           </AccordionTrigger>
           <AccordionContent className="text-[18px]">
             We incorporate values-based learning, including classes and
@@ -52,19 +52,19 @@ function Faqs() {
           <AccordionContent className="text-[18px]">
             The safety and well-being of our students are top priorities. We
             maintain secure facilities, follow strict safety protocols, and
-            provide access to counseling services to support students' mental
+            provide access to counseling services to support students&apos; mental
             and emotional health.
           </AccordionContent>
         </AccordionItem>
 
         <AccordionItem value="item-5">
           <AccordionTrigger className="text-[25px]">
-            How can parents stay involved in their child’s education?
+            How can parents stay involved in their child&apos;s education?
           </AccordionTrigger>
           <AccordionContent className="text-[18px]">
             We encourage parental involvement through regular updates,
             parent-teacher meetings, and an online portal where parents can
-            track their child progress, upcoming events, and school
+            track their child&apos;s progress, upcoming events, and school
             announcements.
           </AccordionContent>
         </AccordionItem>

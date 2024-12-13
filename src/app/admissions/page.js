@@ -130,7 +130,7 @@ export default function Admission() {
               </div>
 
               <div className="mb-4">
-                <label htmlFor="childName" className="block text-sm font-medium text-gray-700">Child's Full Name</label>
+                <label htmlFor="childName" className="block text-sm font-medium text-gray-700">Child&apos;s Full Name</label>
                 <input
                   type="text"
                   id="childName"
