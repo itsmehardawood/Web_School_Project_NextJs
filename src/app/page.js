@@ -32,7 +32,7 @@ function Page() {
         <meta name="description" content="An initiative to success" />
       </Head>
       <div className="min-h-screen text-white bg-black ">
-        {/* Navbar */}
+        {/* Navbar component*/}
        
         <Navbar/>
 
